@@ -24,7 +24,7 @@ social:
   - icon: linkedin-in
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
-  - icon: linkedin-in
+  - icon: researchgate
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
   - icon: github
