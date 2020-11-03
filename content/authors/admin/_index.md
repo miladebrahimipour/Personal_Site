@@ -6,7 +6,7 @@ superuser: true
 authors:
   - admin
 title: Seyed Milad Ebrahimipour
-role: Graduated M.Sc.
+role: M.Sc. in Computer Engineering
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -16,7 +16,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
+    link: milad0887@gmail.com#"#contact"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
