@@ -16,7 +16,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: milad0887@gmail.com#"#contact"
+    link: milad0887@gmail.com #"#contact"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
