@@ -17,7 +17,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:milad0887@gmail.com
+    link: "mailto:milad0887@gmail.com"
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -29,7 +29,7 @@ social:
     link: https://twitter.com/GeorgeCushen
   - icon: github
     icon_pack: fab
-    link: https://github.com/miladebrahimipour
+    link: "https://github.com/miladebrahimipour"
 education:
   courses:
     - course: M.Sc. in Computer Engineering, Computer Architecture
