@@ -44,18 +44,23 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
    name = "CV"
-   identifier = "CV"
    url = "files/Resume.pdf"
    weight = 7
 
-[[main]]
-   name = "Short CV"
-   parent = "CV"
-   url = "files/short.pdf"
-   weight = 1
+#[[main]]
+   #name = "CV"
+   #identifier = "CV"
+   3url = "files/Resume.pdf"
+   #weight = 7
 
-[[main]]
-   name = "Complete CV"
-   parent = "CV"
-   url = "files/complete.pdf"
-   weight = 2
+#[[main]]
+   #name = "Short CV"
+   #parent = "CV"
+   #url = "files/short.pdf"
+   #weight = 1
+
+#[[main]]
+   #name = "Complete CV"
+   #parent = "CV"
+   #url = "files/complete.pdf"
+   #weight = 2
