@@ -20,13 +20,13 @@ social:
     link: "mailto:milad0887@gmail.com"
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=nm3sWJ0AAAAJ&hl=en
   - icon: linkedin-in
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.linkedin.com/in/milad-ebrahimipour/
   - icon: researchgate
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.researchgate.net/profile/Seyed_Ebrahimipour
   - icon: github
     icon_pack: fab
     link: "https://github.com/miladebrahimipour"
