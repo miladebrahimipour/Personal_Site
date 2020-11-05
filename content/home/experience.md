@@ -42,7 +42,12 @@ date_format = "Jan 2006"
   location = "Kerman, Iran"
   date_start = "2016-01-01"
   date_end = ""
-  description = ""
+  description = """
+    * **Supervisor** Professor Behnam Ghavami
+    * **Master Thesis:** Aging-aware Reliability Improvement of Digital Systems
+    * **Contributed** in 12 papers
+    * **Bachelor Thesis:** Design and Implementation of ARM7-TDMIS on Xilinx Spartan 6 FPGA
+  """
 
 
 [[experience]]
