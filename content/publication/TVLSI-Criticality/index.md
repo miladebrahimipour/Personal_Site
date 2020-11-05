@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Aging and Process Variation-aware Statistical Gate Sizing using Incremental-based Criticality Computation"
-authors: [Seyed Milad Ebrahimipour, Behnam Ghavami, Mohsen Raji, Morteza Nabavi, Yvon Savaria]
+authors: [Seyed Milad Ebrahimipour, Behnam Ghavami, Mohsen Raji]
 date: Under Review
 doi: ""
 
