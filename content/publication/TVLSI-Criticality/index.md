@@ -37,7 +37,7 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-url_code:
+url_code: https://github.com/miladebrahimipour/Adaam_ICCAD2020
 url_dataset:
 url_poster:
 url_project:
