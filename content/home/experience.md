@@ -85,7 +85,10 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2017-01-01"
   date_end = "2017-01-01"
-  description = ""
+  description = """
+   * **Supervisor:** Professor Mohsen Raji
+   * Increasing the reliability of digital circuits in the scope of transistor aging
+  """
 
 [[experience]]
   title = "Summer Internship at Shiraz University"
@@ -94,6 +97,9 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2018-01-01"
   date_end = "2018-01-01"
-  description = ""
+  description = """
+  * **Supervisor:** Professor Mohsen Raji
+  * Reliability Degradations in SRAM-based components
+  """
 
 +++
