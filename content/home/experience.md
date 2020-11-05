@@ -27,9 +27,12 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Reviewing experiments before they are given out to students
+  * Setting up laboratory materials
+  * Demonstrating specific lab techniques
+  * Lecturing on content
+  * Monitoring student work and guiding them through experiments
+  * Evaluating their reports, as well as their projects
   """
 
 [[experience]]
@@ -39,7 +42,7 @@ date_format = "Jan 2006"
   location = "Kerman, Iran"
   date_start = "2016-01-01"
   date_end = ""
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = ""
 
 
 [[experience]]
@@ -49,7 +52,7 @@ date_format = "Jan 2006"
   location = "Kerman, Iran"
   date_start = "2017-01-01"
   date_end = ""
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = ""
 
 
 [[experience]]
@@ -59,7 +62,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2019-01-01"
   date_end = "2019-01-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = ""
 
 [[experience]]
   title = "Participate in 1 st GraDAna winter school, Bonn University, Bonn, Germany"
@@ -68,7 +71,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2018-01-01"
   date_end = "2018-01-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = ""
 
 [[experience]]
   title = "Summer Internship at Shiraz University"
@@ -77,7 +80,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2017-01-01"
   date_end = "2017-01-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = ""
 
 [[experience]]
   title = "Summer Internship at Shiraz University"
@@ -86,6 +89,6 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2018-01-01"
   date_end = "2018-01-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = ""
 
 +++
